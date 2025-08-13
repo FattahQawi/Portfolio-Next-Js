@@ -176,7 +176,7 @@ export default function Home() {
                   </div>
                   <div className="pb-8">
                     <h4 className="font-bold mb-2">SMK Taruna Bhakti</h4>
-                    <p className="text-gray-600 mb-2">2021 - Sekarang</p>
+                    <p className="text-gray-600 mb-2">2023 </p>
                     <p className="text-gray-700">
                       Memulai pendidikan di bidang Rekayasa Perangkat Lunak, mempelajari dasar-dasar pemrograman dan pengembangan web.
                     </p>
@@ -190,7 +190,7 @@ export default function Home() {
                   </div>
                   <div className="pb-8">
                     <h4 className="font-bold mb-2">Belajar</h4>
-                    <p className="text-gray-600 mb-2">2022 - Sekarang</p>
+                    <p className="text-gray-600 mb-2">2023 - Pertengahan</p>
                     <p className="text-gray-700">
                       Mengembangkan, dan Memulai untuk Mencari Tahu Atau Mempelajari HTML, CSS, JavaScript.
                     </p>
@@ -203,7 +203,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold mb-2">Bahasa Yang ini dikuasai</h4>
-                    <p className="text-gray-600 mb-2">2025+</p>
+                    <p className="text-gray-600 mb-2">2025</p>
                     <p className="text-gray-700">
                       Next Js, Laravel.
                     </p>
@@ -235,14 +235,11 @@ export default function Home() {
               <div className="p-6">
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="text-xl font-bold">Sisfo Sarpras</h3>
-                  <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Laravel</span>
                 </div>
                 <p className="text-gray-600 mb-4">
-                  Sistem Informasi Sarana & Prasarana                </p>
+                  Sistem Informasi Sarana & Prasarana </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  <span className="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Laravel</span>
-                  <span className="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Laragon</span>
-                </div>
+                  <span className="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded">Laravel</span>                </div>
                 <div className="flex space-x-3">
                   <a 
                     href="#" 
